@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [University](https://www.42madrid.com)
+- 📚 I am currently studying at [42 Madrid Fundación Telefónica.](https://www.42madrid.com)
 
 - 🌱 I am currently in the race **Software Design and Development**
 
